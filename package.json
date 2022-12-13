@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/anducajuan/project-flip#readme",
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
     "next": "^13.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

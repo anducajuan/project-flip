@@ -1,4 +1,7 @@
+import './styles/home.css';
+import {Button} from '@material-ui/core';
+
 function Home() {
-    return <div>Home</div>
+    return <div><Button>Teste</Button></div>
 }
-export default Home
+export default Home;

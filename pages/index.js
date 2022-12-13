@@ -1,4 +1,3 @@
-import './styles/home.css';
 import {Button} from '@material-ui/core';
 
 function Home() {
